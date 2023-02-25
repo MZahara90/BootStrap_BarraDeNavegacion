@@ -7,3 +7,7 @@ Como requisitos, se pide:
 - Uno de los enlaces será un desplegable con al menos un separador entre sus elementos.
 - Una imagen como logotipo
 - Un buscador
+
+<p>Puedes ver el reultado haciendo click <a href="https://mzahara90.github.io/BootStrap_BarraDeNavegacion/MartaTorres_Navegacion.html"> AQUí </a> </p>
+
+
