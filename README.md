@@ -8,6 +8,8 @@ Como requisitos, se pide:
 - Una imagen como logotipo
 - Un buscador
 
+La barra de navegación se debe colapsar en tamaños menores a lg en forma de menú de "hamburguesa"
+
 <p>Puedes ver el reultado haciendo click <a href="https://mzahara90.github.io/BootStrap_BarraDeNavegacion/MartaTorres_Navegacion.html"> AQUí </a> </p>
 
 
